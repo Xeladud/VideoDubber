@@ -38,7 +38,6 @@ link: https://github.com/Xeladud/VideoDubber/blob/main/VideoResultExample.mp4
 1. Clone repository:
 ```bash
 git clone https://github.com/Xeladud/VideoDubber.git
-cd srbot
 ```
 
 2. Install dependencies:
