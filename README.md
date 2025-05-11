@@ -31,7 +31,7 @@ A Telegram bot for translating videos between languages (Russian, Arabic, Englis
 ![alt text](TelegramBotExample.png?raw=true)
 
 ### Result Video
-![alt text](VideoResultExample.mp4?raw=true)
+link: https://github.com/Xeladud/VideoDubber/blob/main/VideoResultExample.mp4
 
 ## Installation
 
