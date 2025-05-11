@@ -22,11 +22,17 @@ A Telegram bot for translating videos between languages (Russian, Arabic, Englis
 - At least 8GB RAM (recommended)
 - 5GB+ free disk space for models
 
+
+## Examples
+### Telegram Bot
+![alt text](TelegramExample.png?raw=true)
+
+
 ## Installation
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/video-translation-bot.git
+git clone https://github.com/Xeladud/VideoDubber.git
 cd srbot
 ```
 
