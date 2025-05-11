@@ -46,10 +46,11 @@ sudo apt-get install ffmpeg
 brew install ffmpeg
 ```
 
-4. Download models:
+4. Prepare models and voices:
 ```bash
-mkdir -p models/voices
+mkdir -p models
 # Place MarianMT models in models/ directory
+mkdir -p voices
 # Place speaker voice samples in voices/ directory
 ```
 
