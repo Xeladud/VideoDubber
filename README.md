@@ -24,7 +24,7 @@ A Telegram bot for translating videos between languages (Russian, Arabic, Englis
 
 
 ## Examples
-### Telegram Bot
+### Telegram Bot (EN -> RU)
 ![alt text](TelegramExample.png?raw=true)
 
 
