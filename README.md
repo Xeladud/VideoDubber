@@ -60,6 +60,7 @@ brew install ffmpeg
 ```bash
 mkdir -p models
 # Place MarianMT models in models/ directory
+
 mkdir -p voices
 # Place speaker voice samples in voices/ directory
 ```
