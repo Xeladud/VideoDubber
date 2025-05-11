@@ -427,8 +427,7 @@ def video_handler(message):
             message.chat.id,
             "Error loading video. Please check:\n"
             "• Video size (max 20MB)\n"
-            "• Video format\n"
-            "• Internet connection",
+            "• Video format",
             reply_to_message_id=message.id
         )
 
