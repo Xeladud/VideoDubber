@@ -8,7 +8,7 @@ A Telegram bot for translating videos between languages (Russian, Arabic, Englis
 - 🌐 Supported languages: Russian (ru), Arabic (ar), English (en)
 - 📝 Automatic subtitle generation
 - 📄 Content summarization
-- ⏱ Audio time-stretching for synchronization with Waveform Similarity based Overlap-Add (WSOLA)
+- ⏱ Audio time-stretching for synchronization with modern Waveform Similarity based Overlap-Add (WSOLA)
 - 🔉 Text-to-speech with voice cloning if it needed
 - 🎞 Burn subtitles directly into video
 - 📦 Temporary file cleanup
