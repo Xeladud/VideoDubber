@@ -1,4 +1,4 @@
-# Simple AI Video Translation Telegram Bot
+# Simple Offline AI Video Translation Telegram Bot
 
 A Telegram bot for translating videos between languages (Russian, Arabic, English) with dubbed audio and subtitles, using state-of-the-art AI models.
 
