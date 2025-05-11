@@ -134,4 +134,3 @@ MIT License
 ---
 
 **Note:** First run will download large model files (5GB+). Ensure stable internet connection.
-```
