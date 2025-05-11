@@ -113,7 +113,7 @@ Video Received → Transcription → Translation → Audio Generation → Video 
 - Video size limited to 20MB (Telegram API restriction)
 - Translation quality depends on source audio clarity
 - Current speaker voice is hardcoded (`voices/speaker.wav`)
-- CPU-only processing (no GPU acceleration)
+- Tested on CPU-only processing (GPU acceleration possible)
 - Limited real-time feedback during processing
 
 ## Contributing
