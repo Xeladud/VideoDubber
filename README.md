@@ -95,7 +95,7 @@ Video Received → Transcription → Translation → Audio Generation → Video 
 ## Technical Details
 
 ### Key Components
-- `bot.py`: Main bot handler
+- `main.py`: Main bot handler
 - `config.py`: Configuration file
 - `/voices`: Speaker voice samples for TTS
 - `/models`: Contains:
